@@ -2,7 +2,7 @@
 Laboratorijske vježbe za predmet Otvoreno računarstvo
 
 Tema laboratorijske vježbe - azijski recepti
-Baza podataka sadrži 14 azijskih recepata koji se sastoje od razno raznih sastojaka (ukupno njih 156) i koji potječu iz različitih regija Azije. 
+Baza podataka sadrži 14 azijskih recepata koji se sastoje od razno raznih sastojaka (ukupno njih 84) i koji potječu iz različitih regija Azije. 
 
 ## Metapodaci
 
@@ -28,9 +28,9 @@ Svako jelo određuje idućih 10 atributa:
 | ljutina | tekst | blago / blago ljuto / ljuto / jako ljuto |
 | vegetarijanski | tekst | da / ne |
 | veganski | tekst | da / ne |
-| sadrzi_gluten | tekst | da / ne (prema tipičnom sastavu sastojaka) |
+| sadrzi_gluten | tekst | da / ne |
 | vrijeme_pripreme_min | cijeli broj | Okvirno vrijeme pripreme u minutama |
 | tip_jela | tekst | predjelo / glavno jelo / desert |
-| sastojak | tekst | (CSV) jedan sastojak recepta; podaci recepta se ponavljaju za svaki sastojak |
+| sastojak | tekst | sastojak recepta; podaci recepta se ponavljaju za svaki sastojak |
 | sastojci | polje tekstova | (JSON) popis sastojaka recepta |
 
