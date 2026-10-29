@@ -1,0 +1,1 @@
+﻿SELECT json_agg(row_to_json(t) ORDER BY t.id) FROM (SELECT v.*, (SELECT json_agg(s.naziv ORDER BY s.naziv) FROM recept_sastojak rs JOIN sastojak s ON s.id = rs.sastojak_id WHERE rs.recept_id = v.id) AS sastojci FROM v_recepti v) t;

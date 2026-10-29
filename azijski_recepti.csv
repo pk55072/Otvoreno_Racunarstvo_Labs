@@ -1,0 +1,157 @@
+id,ime,hrvatski_naziv,regija,zemlja_porijekla,ljutina,vegetarijanski,veganski,sadrzi_gluten,vrijeme_pripreme_min,tip_jela,sastojak
+1,Egg Fried Rice,pržena riža,Istočna Azija,Kina,blago,ne,ne,da,20,glavno jelo,Jaja
+1,Egg Fried Rice,pržena riža,Istočna Azija,Kina,blago,ne,ne,da,20,glavno jelo,Kozice
+1,Egg Fried Rice,pržena riža,Istočna Azija,Kina,blago,ne,ne,da,20,glavno jelo,Mladi luk
+1,Egg Fried Rice,pržena riža,Istočna Azija,Kina,blago,ne,ne,da,20,glavno jelo,Riža
+1,Egg Fried Rice,pržena riža,Istočna Azija,Kina,blago,ne,ne,da,20,glavno jelo,Soja umak
+1,Egg Fried Rice,pržena riža,Istočna Azija,Kina,blago,ne,ne,da,20,glavno jelo,Sol
+1,Egg Fried Rice,pržena riža,Istočna Azija,Kina,blago,ne,ne,da,20,glavno jelo,Šunka
+1,Egg Fried Rice,pržena riža,Istočna Azija,Kina,blago,ne,ne,da,20,glavno jelo,Ulje
+2,Peking Duck,pekinška patka,Istočna Azija,Kina,blago,ne,ne,da,180,glavno jelo,Anis
+2,Peking Duck,pekinška patka,Istočna Azija,Kina,blago,ne,ne,da,180,glavno jelo,Bijeli papar
+2,Peking Duck,pekinška patka,Istočna Azija,Kina,blago,ne,ne,da,180,glavno jelo,Cimet
+2,Peking Duck,pekinška patka,Istočna Azija,Kina,blago,ne,ne,da,180,glavno jelo,Đumbir
+2,Peking Duck,pekinška patka,Istočna Azija,Kina,blago,ne,ne,da,180,glavno jelo,Hoisin umak
+2,Peking Duck,pekinška patka,Istočna Azija,Kina,blago,ne,ne,da,180,glavno jelo,Klinčić
+2,Peking Duck,pekinška patka,Istočna Azija,Kina,blago,ne,ne,da,180,glavno jelo,Med
+2,Peking Duck,pekinška patka,Istočna Azija,Kina,blago,ne,ne,da,180,glavno jelo,Mladi luk
+2,Peking Duck,pekinška patka,Istočna Azija,Kina,blago,ne,ne,da,180,glavno jelo,Muškatni oraščić
+2,Peking Duck,pekinška patka,Istočna Azija,Kina,blago,ne,ne,da,180,glavno jelo,Naranča
+2,Peking Duck,pekinška patka,Istočna Azija,Kina,blago,ne,ne,da,180,glavno jelo,Ocat
+2,Peking Duck,pekinška patka,Istočna Azija,Kina,blago,ne,ne,da,180,glavno jelo,Patka
+2,Peking Duck,pekinška patka,Istočna Azija,Kina,blago,ne,ne,da,180,glavno jelo,Sečuanski papar
+2,Peking Duck,pekinška patka,Istočna Azija,Kina,blago,ne,ne,da,180,glavno jelo,Sjemenke komorača
+2,Peking Duck,pekinška patka,Istočna Azija,Kina,blago,ne,ne,da,180,glavno jelo,Soja umak
+3,Gonbao Chicken,piletina gonbao,Istočna Azija,Kina,ljuto,ne,ne,da,35,glavno jelo,Češnjak
+3,Gonbao Chicken,piletina gonbao,Istočna Azija,Kina,ljuto,ne,ne,da,35,glavno jelo,Čili u prahu
+3,Gonbao Chicken,piletina gonbao,Istočna Azija,Kina,ljuto,ne,ne,da,35,glavno jelo,Đumbir
+3,Gonbao Chicken,piletina gonbao,Istočna Azija,Kina,ljuto,ne,ne,da,35,glavno jelo,Kikiriki
+3,Gonbao Chicken,piletina gonbao,Istočna Azija,Kina,ljuto,ne,ne,da,35,glavno jelo,Kukuruzni škrob
+3,Gonbao Chicken,piletina gonbao,Istočna Azija,Kina,ljuto,ne,ne,da,35,glavno jelo,Mladi luk
+3,Gonbao Chicken,piletina gonbao,Istočna Azija,Kina,ljuto,ne,ne,da,35,glavno jelo,Piletina
+3,Gonbao Chicken,piletina gonbao,Istočna Azija,Kina,ljuto,ne,ne,da,35,glavno jelo,Riža
+3,Gonbao Chicken,piletina gonbao,Istočna Azija,Kina,ljuto,ne,ne,da,35,glavno jelo,Rižin ocat
+3,Gonbao Chicken,piletina gonbao,Istočna Azija,Kina,ljuto,ne,ne,da,35,glavno jelo,Šećer
+3,Gonbao Chicken,piletina gonbao,Istočna Azija,Kina,ljuto,ne,ne,da,35,glavno jelo,Sečuanski papar
+3,Gonbao Chicken,piletina gonbao,Istočna Azija,Kina,ljuto,ne,ne,da,35,glavno jelo,Soja umak
+3,Gonbao Chicken,piletina gonbao,Istočna Azija,Kina,ljuto,ne,ne,da,35,glavno jelo,Ulje
+4,Chicken Chow Mein,pileći chow mein,Istočna Azija,Kina,blago,ne,ne,da,30,glavno jelo,Češnjak
+4,Chicken Chow Mein,pileći chow mein,Istočna Azija,Kina,blago,ne,ne,da,30,glavno jelo,Kukuruzni škrob
+4,Chicken Chow Mein,pileći chow mein,Istočna Azija,Kina,blago,ne,ne,da,30,glavno jelo,Kupus
+4,Chicken Chow Mein,pileći chow mein,Istočna Azija,Kina,blago,ne,ne,da,30,glavno jelo,Mladi luk
+4,Chicken Chow Mein,pileći chow mein,Istočna Azija,Kina,blago,ne,ne,da,30,glavno jelo,Mrkva
+4,Chicken Chow Mein,pileći chow mein,Istočna Azija,Kina,blago,ne,ne,da,30,glavno jelo,Piletina
+4,Chicken Chow Mein,pileći chow mein,Istočna Azija,Kina,blago,ne,ne,da,30,glavno jelo,Rezanci
+4,Chicken Chow Mein,pileći chow mein,Istočna Azija,Kina,blago,ne,ne,da,30,glavno jelo,Soja umak
+4,Chicken Chow Mein,pileći chow mein,Istočna Azija,Kina,blago,ne,ne,da,30,glavno jelo,Sol
+4,Chicken Chow Mein,pileći chow mein,Istočna Azija,Kina,blago,ne,ne,da,30,glavno jelo,Ulje
+4,Chicken Chow Mein,pileći chow mein,Istočna Azija,Kina,blago,ne,ne,da,30,glavno jelo,Umak od kamenica
+4,Chicken Chow Mein,pileći chow mein,Istočna Azija,Kina,blago,ne,ne,da,30,glavno jelo,Voda
+5,Mochi,moči (mochi),Istočna Azija,Japan,blago,da,da,ne,45,desert,Kukuruzni škrob
+5,Mochi,moči (mochi),Istočna Azija,Japan,blago,da,da,ne,45,desert,Mochiko
+5,Mochi,moči (mochi),Istočna Azija,Japan,blago,da,da,ne,45,desert,Šećer
+5,Mochi,moči (mochi),Istočna Azija,Japan,blago,da,da,ne,45,desert,Slatka pasta od crvenog graha
+5,Mochi,moči (mochi),Istočna Azija,Japan,blago,da,da,ne,45,desert,Voda
+6,Tonkotsu Ramen,tonkotsu ramen,Istočna Azija,Japan,blago,ne,ne,da,480,glavno jelo,Češnjak
+6,Tonkotsu Ramen,tonkotsu ramen,Istočna Azija,Japan,blago,ne,ne,da,480,glavno jelo,Jaja
+6,Tonkotsu Ramen,tonkotsu ramen,Istočna Azija,Japan,blago,ne,ne,da,480,glavno jelo,Klice graha
+6,Tonkotsu Ramen,tonkotsu ramen,Istočna Azija,Japan,blago,ne,ne,da,480,glavno jelo,Miso
+6,Tonkotsu Ramen,tonkotsu ramen,Istočna Azija,Japan,blago,ne,ne,da,480,glavno jelo,Mladi luk
+6,Tonkotsu Ramen,tonkotsu ramen,Istočna Azija,Japan,blago,ne,ne,da,480,glavno jelo,Nori
+6,Tonkotsu Ramen,tonkotsu ramen,Istočna Azija,Japan,blago,ne,ne,da,480,glavno jelo,Rezanci
+6,Tonkotsu Ramen,tonkotsu ramen,Istočna Azija,Japan,blago,ne,ne,da,480,glavno jelo,Sezamovo ulje
+6,Tonkotsu Ramen,tonkotsu ramen,Istočna Azija,Japan,blago,ne,ne,da,480,glavno jelo,Soja umak
+6,Tonkotsu Ramen,tonkotsu ramen,Istočna Azija,Japan,blago,ne,ne,da,480,glavno jelo,Svinjska potrbušina
+6,Tonkotsu Ramen,tonkotsu ramen,Istočna Azija,Japan,blago,ne,ne,da,480,glavno jelo,Svinjski temeljac
+7,Nasi Goreng,indonezijska pržena riža,Jugoistočna Azija,Indonezija,ljuto,ne,ne,da,30,glavno jelo,Češnjak
+7,Nasi Goreng,indonezijska pržena riža,Jugoistočna Azija,Indonezija,ljuto,ne,ne,da,30,glavno jelo,Čili
+7,Nasi Goreng,indonezijska pržena riža,Jugoistočna Azija,Indonezija,ljuto,ne,ne,da,30,glavno jelo,Jaja
+7,Nasi Goreng,indonezijska pržena riža,Jugoistočna Azija,Indonezija,ljuto,ne,ne,da,30,glavno jelo,Kecap manis
+7,Nasi Goreng,indonezijska pržena riža,Jugoistočna Azija,Indonezija,ljuto,ne,ne,da,30,glavno jelo,Kozice
+7,Nasi Goreng,indonezijska pržena riža,Jugoistočna Azija,Indonezija,ljuto,ne,ne,da,30,glavno jelo,Krastavac
+7,Nasi Goreng,indonezijska pržena riža,Jugoistočna Azija,Indonezija,ljuto,ne,ne,da,30,glavno jelo,Ljutika
+7,Nasi Goreng,indonezijska pržena riža,Jugoistočna Azija,Indonezija,ljuto,ne,ne,da,30,glavno jelo,Pasta od kozica (terasi)
+7,Nasi Goreng,indonezijska pržena riža,Jugoistočna Azija,Indonezija,ljuto,ne,ne,da,30,glavno jelo,Piletina
+7,Nasi Goreng,indonezijska pržena riža,Jugoistočna Azija,Indonezija,ljuto,ne,ne,da,30,glavno jelo,Prženi luk
+7,Nasi Goreng,indonezijska pržena riža,Jugoistočna Azija,Indonezija,ljuto,ne,ne,da,30,glavno jelo,Riža
+7,Nasi Goreng,indonezijska pržena riža,Jugoistočna Azija,Indonezija,ljuto,ne,ne,da,30,glavno jelo,Ulje
+8,Pad Thai,pad thai,Jugoistočna Azija,Tajland,blago ljuto,ne,ne,ne,30,glavno jelo,Češnjak
+8,Pad Thai,pad thai,Jugoistočna Azija,Tajland,blago ljuto,ne,ne,ne,30,glavno jelo,Jaja
+8,Pad Thai,pad thai,Jugoistočna Azija,Tajland,blago ljuto,ne,ne,ne,30,glavno jelo,Kikiriki
+8,Pad Thai,pad thai,Jugoistočna Azija,Tajland,blago ljuto,ne,ne,ne,30,glavno jelo,Klice graha
+8,Pad Thai,pad thai,Jugoistočna Azija,Tajland,blago ljuto,ne,ne,ne,30,glavno jelo,Kozice
+8,Pad Thai,pad thai,Jugoistočna Azija,Tajland,blago ljuto,ne,ne,ne,30,glavno jelo,Limeta
+8,Pad Thai,pad thai,Jugoistočna Azija,Tajland,blago ljuto,ne,ne,ne,30,glavno jelo,Ljutika
+8,Pad Thai,pad thai,Jugoistočna Azija,Tajland,blago ljuto,ne,ne,ne,30,glavno jelo,Mladi luk
+8,Pad Thai,pad thai,Jugoistočna Azija,Tajland,blago ljuto,ne,ne,ne,30,glavno jelo,Palmin šećer
+8,Pad Thai,pad thai,Jugoistočna Azija,Tajland,blago ljuto,ne,ne,ne,30,glavno jelo,Riblji umak
+8,Pad Thai,pad thai,Jugoistočna Azija,Tajland,blago ljuto,ne,ne,ne,30,glavno jelo,Rižini rezanci
+8,Pad Thai,pad thai,Jugoistočna Azija,Tajland,blago ljuto,ne,ne,ne,30,glavno jelo,Tamarind pasta
+8,Pad Thai,pad thai,Jugoistočna Azija,Tajland,blago ljuto,ne,ne,ne,30,glavno jelo,Tofu
+8,Pad Thai,pad thai,Jugoistočna Azija,Tajland,blago ljuto,ne,ne,ne,30,glavno jelo,Ulje
+9,Kheer,kheer (indijski rižin puding),Južna Azija,Indija,blago,da,ne,ne,60,desert,Bademi
+9,Kheer,kheer (indijski rižin puding),Južna Azija,Indija,blago,da,ne,ne,60,desert,Grožđice
+9,Kheer,kheer (indijski rižin puding),Južna Azija,Indija,blago,da,ne,ne,60,desert,Kardamom
+9,Kheer,kheer (indijski rižin puding),Južna Azija,Indija,blago,da,ne,ne,60,desert,Mlijeko
+9,Kheer,kheer (indijski rižin puding),Južna Azija,Indija,blago,da,ne,ne,60,desert,Riža
+9,Kheer,kheer (indijski rižin puding),Južna Azija,Indija,blago,da,ne,ne,60,desert,Šećer
+10,Butter Chicken,piletina u maslacu (butter chicken),Južna Azija,Indija,blago ljuto,ne,ne,ne,90,glavno jelo,Češnjak
+10,Butter Chicken,piletina u maslacu (butter chicken),Južna Azija,Indija,blago ljuto,ne,ne,ne,90,glavno jelo,Čili u prahu
+10,Butter Chicken,piletina u maslacu (butter chicken),Južna Azija,Indija,blago ljuto,ne,ne,ne,90,glavno jelo,Đumbir
+10,Butter Chicken,piletina u maslacu (butter chicken),Južna Azija,Indija,blago ljuto,ne,ne,ne,90,glavno jelo,Garam masala
+10,Butter Chicken,piletina u maslacu (butter chicken),Južna Azija,Indija,blago ljuto,ne,ne,ne,90,glavno jelo,Jogurt
+10,Butter Chicken,piletina u maslacu (butter chicken),Južna Azija,Indija,blago ljuto,ne,ne,ne,90,glavno jelo,Kasuri methi
+10,Butter Chicken,piletina u maslacu (butter chicken),Južna Azija,Indija,blago ljuto,ne,ne,ne,90,glavno jelo,Kurkuma
+10,Butter Chicken,piletina u maslacu (butter chicken),Južna Azija,Indija,blago ljuto,ne,ne,ne,90,glavno jelo,Maslac
+10,Butter Chicken,piletina u maslacu (butter chicken),Južna Azija,Indija,blago ljuto,ne,ne,ne,90,glavno jelo,Pasirana rajčica
+10,Butter Chicken,piletina u maslacu (butter chicken),Južna Azija,Indija,blago ljuto,ne,ne,ne,90,glavno jelo,Piletina
+10,Butter Chicken,piletina u maslacu (butter chicken),Južna Azija,Indija,blago ljuto,ne,ne,ne,90,glavno jelo,Šećer
+10,Butter Chicken,piletina u maslacu (butter chicken),Južna Azija,Indija,blago ljuto,ne,ne,ne,90,glavno jelo,Sol
+10,Butter Chicken,piletina u maslacu (butter chicken),Južna Azija,Indija,blago ljuto,ne,ne,ne,90,glavno jelo,Vrhnje
+11,Baklava,baklava,Zapadna Azija,Regionalno jelo (Bliski istok),blago,da,ne,da,150,desert,Filo tijesto
+11,Baklava,baklava,Zapadna Azija,Regionalno jelo (Bliski istok),blago,da,ne,da,150,desert,Limunov sok
+11,Baklava,baklava,Zapadna Azija,Regionalno jelo (Bliski istok),blago,da,ne,da,150,desert,Maslac
+11,Baklava,baklava,Zapadna Azija,Regionalno jelo (Bliski istok),blago,da,ne,da,150,desert,Med
+11,Baklava,baklava,Zapadna Azija,Regionalno jelo (Bliski istok),blago,da,ne,da,150,desert,Orasi
+11,Baklava,baklava,Zapadna Azija,Regionalno jelo (Bliski istok),blago,da,ne,da,150,desert,Šećer
+11,Baklava,baklava,Zapadna Azija,Regionalno jelo (Bliski istok),blago,da,ne,da,150,desert,Voda
+12,Shawarma,šavarma,Zapadna Azija,Regionalno jelo (Bliski istok),blago,ne,ne,da,300,glavno jelo,Češnjak
+12,Shawarma,šavarma,Zapadna Azija,Regionalno jelo (Bliski istok),blago,ne,ne,da,300,glavno jelo,Cimet
+12,Shawarma,šavarma,Zapadna Azija,Regionalno jelo (Bliski istok),blago,ne,ne,da,300,glavno jelo,Janjetina
+12,Shawarma,šavarma,Zapadna Azija,Regionalno jelo (Bliski istok),blago,ne,ne,da,300,glavno jelo,Jogurt
+12,Shawarma,šavarma,Zapadna Azija,Regionalno jelo (Bliski istok),blago,ne,ne,da,300,glavno jelo,Kardamom
+12,Shawarma,šavarma,Zapadna Azija,Regionalno jelo (Bliski istok),blago,ne,ne,da,300,glavno jelo,Kiseli krastavci
+12,Shawarma,šavarma,Zapadna Azija,Regionalno jelo (Bliski istok),blago,ne,ne,da,300,glavno jelo,Kumin
+12,Shawarma,šavarma,Zapadna Azija,Regionalno jelo (Bliski istok),blago,ne,ne,da,300,glavno jelo,Kurkuma
+12,Shawarma,šavarma,Zapadna Azija,Regionalno jelo (Bliski istok),blago,ne,ne,da,300,glavno jelo,Limunov sok
+12,Shawarma,šavarma,Zapadna Azija,Regionalno jelo (Bliski istok),blago,ne,ne,da,300,glavno jelo,Luk
+12,Shawarma,šavarma,Zapadna Azija,Regionalno jelo (Bliski istok),blago,ne,ne,da,300,glavno jelo,Maslinovo ulje
+12,Shawarma,šavarma,Zapadna Azija,Regionalno jelo (Bliski istok),blago,ne,ne,da,300,glavno jelo,Paprika u prahu
+12,Shawarma,šavarma,Zapadna Azija,Regionalno jelo (Bliski istok),blago,ne,ne,da,300,glavno jelo,Pita kruh
+12,Shawarma,šavarma,Zapadna Azija,Regionalno jelo (Bliski istok),blago,ne,ne,da,300,glavno jelo,Rajčica
+12,Shawarma,šavarma,Zapadna Azija,Regionalno jelo (Bliski istok),blago,ne,ne,da,300,glavno jelo,Tahini umak
+13,Hummus,humus,Zapadna Azija,Regionalno jelo (Bliski istok),blago,da,da,ne,15,predjelo,Češnjak
+13,Hummus,humus,Zapadna Azija,Regionalno jelo (Bliski istok),blago,da,da,ne,15,predjelo,Kumin
+13,Hummus,humus,Zapadna Azija,Regionalno jelo (Bliski istok),blago,da,da,ne,15,predjelo,Limunov sok
+13,Hummus,humus,Zapadna Azija,Regionalno jelo (Bliski istok),blago,da,da,ne,15,predjelo,Maslinovo ulje
+13,Hummus,humus,Zapadna Azija,Regionalno jelo (Bliski istok),blago,da,da,ne,15,predjelo,Paprika u prahu
+13,Hummus,humus,Zapadna Azija,Regionalno jelo (Bliski istok),blago,da,da,ne,15,predjelo,Slanutak
+13,Hummus,humus,Zapadna Azija,Regionalno jelo (Bliski istok),blago,da,da,ne,15,predjelo,Sol
+13,Hummus,humus,Zapadna Azija,Regionalno jelo (Bliski istok),blago,da,da,ne,15,predjelo,Tahini
+14,Biryani,biryani,Južna Azija,Regionalno jelo (Južna Azija),blago ljuto,ne,ne,ne,120,glavno jelo,Basmati riža
+14,Biryani,biryani,Južna Azija,Regionalno jelo (Južna Azija),blago ljuto,ne,ne,ne,120,glavno jelo,Češnjak
+14,Biryani,biryani,Južna Azija,Regionalno jelo (Južna Azija),blago ljuto,ne,ne,ne,120,glavno jelo,Cimet
+14,Biryani,biryani,Južna Azija,Regionalno jelo (Južna Azija),blago ljuto,ne,ne,ne,120,glavno jelo,Đumbir
+14,Biryani,biryani,Južna Azija,Regionalno jelo (Južna Azija),blago ljuto,ne,ne,ne,120,glavno jelo,Garam masala
+14,Biryani,biryani,Južna Azija,Regionalno jelo (Južna Azija),blago ljuto,ne,ne,ne,120,glavno jelo,Ghee
+14,Biryani,biryani,Južna Azija,Regionalno jelo (Južna Azija),blago ljuto,ne,ne,ne,120,glavno jelo,Janjetina
+14,Biryani,biryani,Južna Azija,Regionalno jelo (Južna Azija),blago ljuto,ne,ne,ne,120,glavno jelo,Jogurt
+14,Biryani,biryani,Južna Azija,Regionalno jelo (Južna Azija),blago ljuto,ne,ne,ne,120,glavno jelo,Kardamom
+14,Biryani,biryani,Južna Azija,Regionalno jelo (Južna Azija),blago ljuto,ne,ne,ne,120,glavno jelo,Klinčić
+14,Biryani,biryani,Južna Azija,Regionalno jelo (Južna Azija),blago ljuto,ne,ne,ne,120,glavno jelo,Korijander
+14,Biryani,biryani,Južna Azija,Regionalno jelo (Južna Azija),blago ljuto,ne,ne,ne,120,glavno jelo,Lovorov list
+14,Biryani,biryani,Južna Azija,Regionalno jelo (Južna Azija),blago ljuto,ne,ne,ne,120,glavno jelo,Luk
+14,Biryani,biryani,Južna Azija,Regionalno jelo (Južna Azija),blago ljuto,ne,ne,ne,120,glavno jelo,Menta
+14,Biryani,biryani,Južna Azija,Regionalno jelo (Južna Azija),blago ljuto,ne,ne,ne,120,glavno jelo,Mlijeko
+14,Biryani,biryani,Južna Azija,Regionalno jelo (Južna Azija),blago ljuto,ne,ne,ne,120,glavno jelo,Šafran
+14,Biryani,biryani,Južna Azija,Regionalno jelo (Južna Azija),blago ljuto,ne,ne,ne,120,glavno jelo,Sol

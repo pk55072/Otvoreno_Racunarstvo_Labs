@@ -1,0 +1,1 @@
+﻿\copy (SELECT v.*, s.naziv AS sastojak FROM v_recepti v JOIN recept_sastojak rs ON rs.recept_id = v.id JOIN sastojak s ON s.id = rs.sastojak_id ORDER BY v.id, s.naziv) TO 'azijski_recepti.csv' WITH (FORMAT csv, HEADER true, ENCODING 'UTF8')
