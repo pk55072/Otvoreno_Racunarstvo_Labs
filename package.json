@@ -1,0 +1,24 @@
+{
+  "name": "otvoreno_racunarstvo_labs",
+  "version": "1.0.0",
+  "description": "Laboratorijske vježbe za predmet Otvoreno računarstvo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --env-file=./.env server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pk55072/Otvoreno_Racunarstvo_Labs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pk55072/Otvoreno_Racunarstvo_Labs/issues"
+  },
+  "homepage": "https://github.com/pk55072/Otvoreno_Racunarstvo_Labs#readme",
+  "dependencies": {
+    "express": "^5.3.0",
+    "pg": "^8.23.1"
+  }
+}

@@ -10,9 +10,9 @@ Baza podataka sadrži 14 azijskih recepata koji se sastoje od razno raznih sasto
 |---|---|
 | Naziv skupa | Azijski recepti |
 | Autor | Patrik Krčma |
-| Verzija | 1.0 |
-| Licencija | CC0 (Creative Commons Zero) 1.0  https://creativecommons.org/publicdomain/zero/1.0/|
-| Jezik podataka | hrvatski (uz engleske izvorne nazive jela) |
+| Verzija | 2.0 |
+| Licencija | CC0 (Creative Commons Zero) 1.0 |
+| Jezik | hrvatski, engleski |
 
 ## Atributi
 

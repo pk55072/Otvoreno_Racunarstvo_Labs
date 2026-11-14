@@ -1,0 +1,91 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Azijski recepti",
+  "id":"https://raw.githubusercontent.com/pk55072/Otvoreno_Racunarstvo_Labs/main/schema.json",
+  "description": "Skup podataka o azijskim receptima",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "title": "Recept",
+    "description": "Azijski recept",
+    "properties": {
+      "id": {
+        "type": "number",
+        "title": "id",
+        "description": "Jedinstveni identifikator recepta"
+      },
+      "ime": {
+        "type": "string",
+        "title": "ime",
+        "description": "Izvorni naziv recepta"
+      },
+      "hrvatski_naziv": {
+        "type": "string",
+        "title": "hrvatski_naziv",
+        "description": "Naziv recepta na hrvatskom"
+      },
+      "regija": {
+        "type": "string",
+        "title": "regija",
+        "description": "Geografska regija recepta"
+      },
+      "zemlja_porijekla": {
+        "type": "string",
+        "title": "zemlja_porijekla",
+        "description": "Zemlja iz koje recept potječe"
+      },
+      "ljutina": {
+        "type": "string",
+        "title": "ljutina",
+        "description": "Razina ljutine recepta"
+      },
+      "vegetarijanski": {
+        "type": "string",
+        "title": "vegetarijanski",
+        "description": "Prikladnost recepta za vegetarijance"
+      },
+      "veganski": {
+        "type": "string",
+        "title": "veganski",
+        "description": "Prikladnost recepta za vegane"
+      },
+      "sadrzi_gluten": {
+        "type": "string",
+        "title": "sadrzi_gluten",
+        "description": "Označava prisutnost glutena"
+      },
+      "vrijeme_pripreme_min": {
+        "type": "number",
+        "title": "vrijeme_pripreme_min",
+        "description": "Vrijeme pripreme u minutama"
+      },
+      "tip_jela": {
+        "type": "string",
+        "title": "tip_jela",
+        "description": "Kategorija pripremljenog jela"
+      },
+      "sastojci": {
+        "type": "array",
+        "title": "sastojci",
+        "description": "Popis sastojaka potrebnih za recept",
+        "items": {
+          "type": "string"
+        }
+      }
+    },
+    "required": [
+      "id",
+      "ime",
+      "hrvatski_naziv",
+      "regija",
+      "zemlja_porijekla",
+      "ljutina",
+      "vegetarijanski",
+      "veganski",
+      "sadrzi_gluten",
+      "vrijeme_pripreme_min",
+      "tip_jela",
+      "sastojci"
+    ]
+  }
+}

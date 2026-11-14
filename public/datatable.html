@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Azijski recepti – tablica</title>
+  <meta name="description" content="Pretraživa tablica azijskih recepata.">
+  <meta name="author" content="Patrik Krčma">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <main>
+    <p><a href="index.html">← Početna</a></p>
+    <h1>Azijski recepti – tablica</h1>
+
+    <form id="filter-form">
+      <input type="text" id="q" placeholder="Upišite traženi tekst…" aria-label="Pretraga">
+      <select id="attr" aria-label="Atribut pretrage">
+        <option value="">Svi atributi</option>
+        <option value="ime">ime</option>
+        <option value="hrvatski_naziv">hrvatski_naziv</option>
+        <option value="regija">regija</option>
+        <option value="zemlja_porijekla">zemlja_porijekla</option>
+        <option value="ljutina">ljutina</option>
+        <option value="vegetarijanski">vegetarijanski</option>
+        <option value="veganski">veganski</option>
+        <option value="sadrzi_gluten">sadrzi_gluten</option>
+        <option value="vrijeme_pripreme_min">vrijeme_pripreme_min</option>
+        <option value="tip_jela">tip_jela</option>
+        <option value="sastojci">sastojci</option>
+      </select>
+      <button type="submit">Traži</button>
+    </form>
+
+    <p>
+      Preuzmi trenutni prikaz:
+      <a id="dl-csv" href="/api/export?format=csv" download>CSV</a>
+      <a id="dl-json" href="/api/export?format=json" download>JSON</a>
+    </p>
+    <p id="status" role="status"></p>
+
+    <table id="data-table">
+      <thead>
+        <tr>
+          <th>ID</th><th>Ime</th><th>Hrvatski naziv</th><th>Regija</th><th>Zemlja</th>
+          <th>Ljutina</th><th>Veget.</th><th>Vegan.</th><th>Gluten</th>
+          <th>Min</th><th>Tip jela</th><th>Sastojci</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </main>
+  <script src="datatable.js"></script>
+</body>
+</html>

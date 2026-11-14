@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Azijski recepti</title>
+  <meta name="description" content="Baza podataka sadrži 14 azijskih recepata koji se sastoje od razno raznih sastojaka (ukupno njih 84) i koji potječu iz različitih regija Azije.">
+  <meta name="author" content="Patrik Krčma">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <main>
+    <h1>Azijski recepti</h1>
+    <p>Baza podataka sadrži 14 azijskih recepata koji se sastoje od razno raznih
+         sastojaka (ukupno njih 84) i koji potječu iz različitih regija Azije. </p>
+
+    <h2>Preuzimanje podataka</h2>
+    <ul>
+      <li><a href="./azijski_recepti.csv" download>azijski_recepti.csv</a> (jedan redak po sastojku)</li>
+      <li><a href="azijski_recepti.json" download>azijski_recepti.json</a> (jedan objekt po receptu)</li>
+      <li><a href="schema.json" download>schema.json</a> (JSON Schema)</li>
+    </ul>
+
+    <h2>Filter</h2>
+    <p><a href="datatable.html">Otvori podatkovnu tablicu</a></p>
+
+    <h2>Metapodaci</h2>
+    <table>
+        <tr><th>Naziv skupa</th><td>Azijski recepti</td></tr>
+      <tr><th>Autor</th><td>Patrik Krčma</td></tr>
+      <tr><th>Verzija</th><td>2.0</td></tr>
+      <tr><th>Licencija</th><td>CC0 (Creative Commons Zero) 1.0</td></tr>
+      <tr><th>Jezik</th><td>hrvatski, engleski</td></tr>
+    </table>
+
+    <h2>Opis atributa</h2>
+    <table>
+      <tr><th>Atribut</th><th>Opis</th></tr>
+      <tr><td>id</td><td>Jedinstveni identifikator recepta</td></tr>
+      <tr><td>ime</td><td>Izvorni/engleski naziv jela</td></tr>
+      <tr><td>hrvatski_naziv</td><td>Hrvatski naziv jela</td></tr>
+      <tr><td>regija</td><td>Regija porijekla jela</td></tr>
+      <tr><td>zemlja_porijekla</td><td>Zemlja ili regionalno porijeklo ako se ne zna iz koje je točno države</td></tr>
+      <tr><td>ljutina</td><td>blago / blago ljuto / ljuto</td></tr>
+      <tr><td>vegetarijanski</td><td>da / ne</td></tr>
+      <tr><td>veganski</td><td>da / ne</td></tr>
+      <tr><td>sadrzi_gluten</td><td>da / ne</td></tr>
+      <tr><td>vrijeme_pripreme_min</td><td>Okvirno vrijeme pripreme u minutama</td></tr>
+      <tr><td>tip_jela</td><td>predjelo / glavno jelo / desert</td></tr>
+      <tr><td>sastojci</td><td>Popis sastojaka</td></tr>
+    </table>
+  </main>
+</body>
+</html>
